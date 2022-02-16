@@ -24,7 +24,7 @@ click next
 
 the amount of ram can be what you want it to be but do at least 8GB for a smooth experience (most moddern systems have 12 or 16 GB and if you less than that please upgrade)
 
-create a new virtual hard disk and choose "VDH" the storage itself should be dynamically allocated
+create a new virtual hard disk and choose "VHD" the storage itself should be dynamically allocated
 
 the disk size can be as big as you want it to be but it does have to be at least 80GB
 
