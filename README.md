@@ -63,6 +63,12 @@ you will notice that everything is slow to fix this go to this: https://bit.ly/3
 
 and download this: https://bit.ly/3LAVXGB
 
+run the command prompt and run the code from the google doc
+
+next replace your install cd with the darwin iso and install vmware tools
+
+copy and paste the terminal code from the google doc
+
 you should then have a working macos big sur install in vmware
 
 this guide was made with the help of this video: https://www.youtube.com/watch?v=B7QAQLqugcY&t=225s all the files were provided by the author of the video and all rights belong to apple inc and the video auther, i do not own anything in this project, if you make a guide based off this one please mention Andrew E. Snow as an auther of the original guide author, this guide is simply a side project by Andrew E. Snow and he is not trying to make profit of it, thank you for following this guide for setting up a mac os virtual machine and making enderpirate98 known.
