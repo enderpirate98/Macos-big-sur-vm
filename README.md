@@ -1,6 +1,3 @@
-A mac os virtual machine for windows setup guide with all the files and info needed to get started.
-
-
 download all the files provided in this project:
 
 Virtual Box: https://bit.ly/3JAqNgF
