@@ -33,12 +33,34 @@ the disk size can be as big as you want it to be but it does have to be at least
 
 hit create and exit virtual box
 
+setting up the behind the scenes parts of virtual box:
+
 go into the command prompt and run it as administrator
 
-if you have an intel processor then copy and paste the commands from intel-code.txt (if your vm name is not Big Sur then change Big Sur to what your vm name is)
+if you have an intel cpu then copy and paste the commands from intel-code.txt (if your vm name is not Big Sur then change Big Sur to what your vm name is)
 
-if you have an amd processor then copy and paste the commands from amd-code.txt (if your vm name is not Big Sur then change Big Sur to what your vm name is)
+if you have an amd cpu then copy and paste the commands from amd-code.txt (if your vm name is not Big Sur then change Big Sur to what your vm name is)
 
-open virtualbox and go into
+open virtualbox and go into the vm settings: general -> advanced and set the clipboard to bidirectional, click ok
 
-it will say that there is no
+mac os install:
+
+open the vm
+
+it will say that there is no start up disk to fix this just add the iso file provided in this project
+
+choose your language and go into disk utility
+
+choose the disk that says: "VBOX HARDDISK Media" and click erase
+
+name the disk what you want
+
+after that close the disk utility
+
+click on install mac os big sur and agree to the software licence
+
+go through the installation and setup like normal
+
+you should then have a working macos big sur install in vmware
+
+this guide was made with the help of this video: https://www.youtube.com/watch?v=LNsC2sUk26Y&t=225s all the files were provided by the author of the video and all rights belong to apple inc and the video auther, i do not own anything in this project, if you make a guide based off this one please mention Andrew E. Snow as an auther of the original guide author, this guide is simply a side project by Andrew E. Snow and he is not trying to make profit of it, thank you for following this guide for setting up a mac os virtual machine and making enderpirate98 known.
